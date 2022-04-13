@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d2a5d5f3-eb20-4c27-9623-d3f206a78848": {
+      "ProjectGuid": "d2a5d5f3-eb20-4c27-9623-d3f206a78848",
+      "DisplayName": "Entidades",
+      "ColorIndex": 0
+    },
+    "b04bc4c4-0cce-4641-bd89-c9794f722755": {
+      "ProjectGuid": "b04bc4c4-0cce-4641-bd89-c9794f722755",
+      "DisplayName": "Logica",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

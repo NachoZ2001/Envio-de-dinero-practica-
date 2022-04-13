@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Envio-de-dinero-practica-\Entidades.csproj", "{D2A5D5F3-EB20-4C27-9623-D3F206A78848}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{B04BC4C4-0CCE-4641-BD89-C9794F722755}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2A5D5F3-EB20-4C27-9623-D3F206A78848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A5D5F3-EB20-4C27-9623-D3F206A78848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A5D5F3-EB20-4C27-9623-D3F206A78848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A5D5F3-EB20-4C27-9623-D3F206A78848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B04BC4C4-0CCE-4641-BD89-C9794F722755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B04BC4C4-0CCE-4641-BD89-C9794F722755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B04BC4C4-0CCE-4641-BD89-C9794F722755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B04BC4C4-0CCE-4641-BD89-C9794F722755}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F83008B-BD4A-4436-BCE6-6BAF8A368811}
+	EndGlobalSection
+EndGlobal
